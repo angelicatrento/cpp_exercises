@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  FrogJump.cpp
+c:\users\angelica\source\repos\frogjump\frogjump\frogjump.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  FrogJump.vcxproj -> C:\Users\Angelica\source\repos\FrogJump\Debug\FrogJump.exe
